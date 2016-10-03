@@ -11,5 +11,5 @@ backup per the time range between 2^n and 2^(n+1) days ago for n=1,2,...
 The idea of the function is borrowed from 
 [the artcile](http://blog.powerupcloud.com/2016/02/15/automate-ebs-snapshots-using-lambda-function/).
 
-The development of the backup function was funded by [ShaferSystems](http://www.shafersystems.com) 
+The development of the backup function was funded by [Shafer Systems LLC](http://www.shafersystems.com) 
 and the code is open-sourced by their consent.
